@@ -14,5 +14,3 @@ jobs:
         server: ftp.xn--sterngteknik-jcb1w.online
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-
-        server-dir: /public_html/Marcus/
